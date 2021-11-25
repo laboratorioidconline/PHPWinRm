@@ -1,0 +1,21 @@
+{
+    "name": "kroshilin/winrm",
+    "description": "WinRM Client",
+    "version": "2.1.1",
+    "license": "MIT",
+    "homepage": "https://sofarm.me",
+    "authors": [
+        {
+            "name": "Anton Kroshilin",
+            "email": "kroshilin.a@yandex.ru"
+        }
+    ],
+    "bin": [
+        "bin/winrm-ps-exec.py"
+    ],
+    "autoload": {
+        "psr-4": {
+            "SofarmLib\\WinRm\\": "./"
+        }
+    }
+}
