@@ -1,7 +1,7 @@
 {
-    "name": "kroshilin/winrm",
+    "name": "laboratorioidconline/PHPWinRm",
     "description": "WinRM Client",
-    "version": "2.1.1",
+    "version": "1.0.0",
     "license": "MIT",
     "homepage": "https://sofarm.me",
     "authors": [
